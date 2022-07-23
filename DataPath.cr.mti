@@ -1,0 +1,155 @@
+C:/Users/Usuario/Documents/ModelSim/programas/DataPath/Mux_Mini.v {1 {vlog -work work -stats=none C:/Users/Usuario/Documents/ModelSim/programas/DataPath/Mux_Mini.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MuxMini
+
+Top level modules:
+	MuxMini
+
+} {} {}} C:/Users/Usuario/Documents/ModelSim/programas/DataPath/DataPath.v {1 {vlog -work work -stats=none C:/Users/Usuario/Documents/ModelSim/programas/DataPath/DataPath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DataPath
+
+Top level modules:
+	DataPath
+
+} {} {}} C:/Users/Usuario/Documents/ModelSim/programas/DataPath/Control.v {1 {vlog -work work -stats=none C:/Users/Usuario/Documents/ModelSim/programas/DataPath/Control.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} C:/Users/Usuario/Documents/ModelSim/programas/DataPath/Data_Memory.v {1 {vlog -work work -stats=none C:/Users/Usuario/Documents/ModelSim/programas/DataPath/Data_Memory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mem
+
+Top level modules:
+	Mem
+
+} {} {}} C:/Users/Usuario/Documents/ModelSim/programas/DataPath/MUX_10.v {1 {vlog -work work -stats=none C:/Users/Usuario/Documents/ModelSim/programas/DataPath/MUX_10.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux
+
+Top level modules:
+	Mux
+
+} {} {}} C:/Users/Usuario/Documents/ModelSim/programas/DataPath/ALU.v {1 {vlog -work work -stats=none C:/Users/Usuario/Documents/ModelSim/programas/DataPath/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/Usuario/Documents/ModelSim/programas/DataPath/ADD_ALU.v {1 {vlog -work work -stats=none C:/Users/Usuario/Documents/ModelSim/programas/DataPath/ADD_ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module AddSL
+
+Top level modules:
+	AddSL
+
+} {} {}} C:/Users/Usuario/Documents/ModelSim/programas/DataPath/Buffer_1.v {1 {vlog -work work -stats=none C:/Users/Usuario/Documents/ModelSim/programas/DataPath/Buffer_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Buffer_1
+
+Top level modules:
+	Buffer_1
+
+} {} {}} C:/Users/Usuario/Documents/ModelSim/programas/DataPath/Instruction_Memory.v {1 {vlog -work work -stats=none C:/Users/Usuario/Documents/ModelSim/programas/DataPath/Instruction_Memory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module InstructionMemory
+
+Top level modules:
+	InstructionMemory
+
+} {} {}} C:/Users/Usuario/Documents/ModelSim/programas/DataPath/Buffer_2.v {1 {vlog -work work -stats=none C:/Users/Usuario/Documents/ModelSim/programas/DataPath/Buffer_2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Buffer_2
+
+Top level modules:
+	Buffer_2
+
+} {} {}} C:/Users/Usuario/Documents/ModelSim/programas/DataPath/AND.v {1 {vlog -work work -stats=none C:/Users/Usuario/Documents/ModelSim/programas/DataPath/AND.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module AND
+
+Top level modules:
+	AND
+
+} {} {}} C:/Users/Usuario/Documents/ModelSim/programas/DataPath/DataPath_tb.v {1 {vlog -work work -stats=none C:/Users/Usuario/Documents/ModelSim/programas/DataPath/DataPath_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DataPath_TB
+
+Top level modules:
+	DataPath_TB
+
+} {} {}} C:/Users/Usuario/Documents/ModelSim/programas/DataPath/Buffer_3.v {1 {vlog -work work -stats=none C:/Users/Usuario/Documents/ModelSim/programas/DataPath/Buffer_3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Buffer_3
+
+Top level modules:
+	Buffer_3
+
+} {} {}} C:/Users/Usuario/Documents/ModelSim/programas/DataPath/Buffer_4.v {1 {vlog -work work -stats=none C:/Users/Usuario/Documents/ModelSim/programas/DataPath/Buffer_4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Buffer_4
+
+Top level modules:
+	Buffer_4
+
+} {} {}} C:/Users/Usuario/Documents/ModelSim/programas/DataPath/Shift_Left2_Mini.v {1 {vlog -work work -stats=none C:/Users/Usuario/Documents/ModelSim/programas/DataPath/Shift_Left2_Mini.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ShiftLeft_Mini
+
+Top level modules:
+	ShiftLeft_Mini
+
+} {} {}} C:/Users/Usuario/Documents/ModelSim/programas/DataPath/Registers.v {1 {vlog -work work -stats=none C:/Users/Usuario/Documents/ModelSim/programas/DataPath/Registers.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Registers
+
+Top level modules:
+	Registers
+
+} {} {}} C:/Users/Usuario/Documents/ModelSim/programas/DataPath/ADD.v {1 {vlog -work work -stats=none C:/Users/Usuario/Documents/ModelSim/programas/DataPath/ADD.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Add
+
+Top level modules:
+	Add
+
+} {} {}} C:/Users/Usuario/Documents/ModelSim/programas/DataPath/SignExtend.v {1 {vlog -work work -stats=none C:/Users/Usuario/Documents/ModelSim/programas/DataPath/SignExtend.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} C:/Users/Usuario/Documents/ModelSim/programas/DataPath/MUX_01.v {1 {vlog -work work -stats=none C:/Users/Usuario/Documents/ModelSim/programas/DataPath/MUX_01.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MuxMini_01
+
+Top level modules:
+	MuxMini_01
+
+} {} {}} C:/Users/Usuario/Documents/ModelSim/programas/DataPath/ALU_Control.v {1 {vlog -work work -stats=none C:/Users/Usuario/Documents/ModelSim/programas/DataPath/ALU_Control.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_control
+
+Top level modules:
+	ALU_control
+
+} {} {}} C:/Users/Usuario/Documents/ModelSim/programas/DataPath/Shift_Left2.v {1 {vlog -work work -stats=none C:/Users/Usuario/Documents/ModelSim/programas/DataPath/Shift_Left2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ShiftLeft
+
+Top level modules:
+	ShiftLeft
+
+} {} {}} C:/Users/Usuario/Documents/ModelSim/programas/DataPath/PC.v {1 {vlog -work work -stats=none C:/Users/Usuario/Documents/ModelSim/programas/DataPath/PC.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}}
